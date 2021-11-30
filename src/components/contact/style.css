@@ -1,0 +1,43 @@
+.container-contact {
+    margin: 200px 50px 10px 300px;
+    height: 200px;
+    width: 60%;
+    background-color: #09132C;
+    border-radius: 9px;
+    border: 1px solid white;
+    box-shadow: 1px 1px #4d4f53;
+
+
+}
+
+.h3-contact {
+    font-size: 17px;
+    margin: 15px 0 0 15px;
+    color: orange;
+}
+
+.spna-contact {
+    margin-left: 10px;
+    color: white;
+}
+
+.container-ul {
+    display: flex;
+    list-style: none;
+}
+
+.container-li {
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.height {
+    height: 100px;
+}
+
+a {
+    color: white;
+
+    text-decoration: none;
+}

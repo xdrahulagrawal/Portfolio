@@ -1,0 +1,30 @@
+.container-home {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+
+.h3-home {
+    color: orange;
+    font-size: 28px;
+    margin: 100px 0 -15px 0;
+}
+
+.h1-home {
+    color: #4D773E;
+    font-size: 35px;
+    margin-left: -40px;
+}
+
+.h4-home {
+    color: white;
+    font-size: 22px;
+    margin-left: -80px;
+    margin-top: -10px;
+}
+
+img {
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}

@@ -1,0 +1,40 @@
+.container-project {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.container-project-items {
+    height: 350px;
+    width: 300px;
+    background-color: #09132C;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 1px 1px #4d4f53;
+}
+
+.h3-project {
+    text-align: center;
+    color: orange;
+    font-size: 26px;
+}
+
+.p-project {
+    color: white;
+    margin-top: 15px;
+    text-indent: 30px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    text-shadow: 0.5px 0.5px white;
+    margin-left: 7px;
+    margin-bottom: 100px;
+
+}
+
+.a-project {
+    color: orange;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-left: 90px;
+}

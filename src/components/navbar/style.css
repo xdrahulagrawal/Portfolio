@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    list-style: none;
+    background-color: #000113;
+    height: 73px;
+    justify-content: center;
+    margin: -8px;
+    /* justify-content: flex-end; */
+
+}
+
+.container-item {
+    margin-top: 20px;
+}
+
+.navLink {
+    text-decoration: none;
+    /* margin-right: 72px; */
+    margin-left: 100px;
+    font-size: 22px;
+    font-weight: 600;
+    color: wheat;
+}
+
+.ml {
+    margin-left: 40px;
+}
